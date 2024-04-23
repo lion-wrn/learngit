@@ -1,3 +1,0 @@
-i am a man
-a great man
-git has a mutable index called stage.
